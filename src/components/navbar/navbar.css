@@ -1,3 +1,14 @@
-.navbarContainer{
-    background-color: brown;
+.containerNavbar {
+  background-color: #7b94e6;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  min-height: 15vh;
+  align-items: center;
+  padding: 15px;
+}
+
+.categories {
+  display: flex;
+  gap: 15px;
 }
