@@ -2,7 +2,7 @@ export let products = [
   {
     title: "Buzo negro estampado",
     price: 12000,
-    description: "Buzo 100% algohdón",
+    description: "Buzo 100% algodón",
     img: "https://res.cloudinary.com/drcdsn7xu/image/upload/v1724050080/images_so5a7l.jpg",
     stock: 12,
     category: "urbanas",
@@ -11,7 +11,7 @@ export let products = [
   {
     title: "Remera Rick and Morty",
     price: 14000,
-    description: "Remera 100% algohdón, Rick and Morty",
+    description: "Remera 100% algodón, Rick and Morty",
     img: "https://res.cloudinary.com/drcdsn7xu/image/upload/v1724050176/remera_rick_and_morty_nzn29u.jpg",
     stock: 10,
     category: "urbanas",
